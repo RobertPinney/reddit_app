@@ -1,5 +1,5 @@
 
-#**Rob's Reddit App Miniature**
+# **Rob's Reddit App Miniature**
 
 Created in React. This project is being done as part of the Codecademy course to become a full-stack engineer. This is the final project for the front-end engineer portion.  
 The purpose of this project is to create a miniature version of the famous reddit app using api calls to the original source and displaying them via multiple search and order parameters.
