@@ -31,15 +31,15 @@ The purpose of this project is to create a miniature version of the famous reddi
 
 
 ### A list of the prerequite skills necessary to complete this project:
-    * HTML
-    * CSS
-    * JavaScript
-    * React
-    * Redux
-    * Jest and Selenium
-    * Git and GitHub
-    * Command line and file navigation
-    * Wireframing
+    - HTML
+    - CSS
+    - JavaScript
+    - React
+    - Redux
+    - Jest and Selenium
+    - Git and GitHub
+    - Command line and file navigation
+    - Wireframing
 
 ## Wireframe:
 ![image](https://github.com/RobertPinney/reddit_app/assets/124516144/1e418eb2-6938-401d-96e4-ad44b3d632dd)
